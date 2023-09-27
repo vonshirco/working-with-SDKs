@@ -1,6 +1,6 @@
 # SDK - Software Development Kit
 
-## SDKS Contains:
+## SDKs Contains:
 - Prewritten Code
 - Tools (Testing Utilities, Sample Applications, How-to guides)
 
